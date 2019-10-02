@@ -21,12 +21,12 @@ A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. All
 * Add to Cart:
   * Allows you to add items to cart which stay as long as the session active. Cart is cleared when the user logs out.
   
- ### What doesn't work:
- * Requires you to go to the Sign In page in order to go to the Register page.
- * Doesn't allow you to add multiple quantities of the same item in cart. 
- * Storing more personalized user information.
- * Payment Portal set-up.
- * Requires manually entry of products from the database. No Admin page for product entry.
+### What doesn't work:
+* Requires you to go to the Sign In page in order to go to the Register page.
+* Doesn't allow you to add multiple quantities of the same item in cart. 
+* Storing more personalized user information.
+* Payment Portal set-up.
+* Requires manually entry of products from the database. No Admin page for product entry.
  
 ## Home Page
 ![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home1.png)
