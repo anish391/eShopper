@@ -15,7 +15,7 @@ A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. All
   * Allows you to register a new user for the website using the signup page.
   * Adds a Username, Email-Id and Password. Password is hashed using SHA-256.
   * Sign-in based on Email-Id and Password.
-  * Handling to handle SQL Injections.
+  * Prevents potential SQL Injections.
 * Add to Cart:
   * Allows you to add items to cart which stay as long as the session active. Cart is cleared when the user logs out.
   
