@@ -26,7 +26,7 @@ A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. All
 * Doesn't allow you to add multiple quantities of the same item in cart. 
 * Storing more personalized user information.
 * Payment Portal set-up.
-* Requires manually entry of products from the database. No Admin page for product entry.
+* Requires manual entry of products to the database. No Admin page for product entry.
 * Product search not implemented.
  
 ## Home Page
