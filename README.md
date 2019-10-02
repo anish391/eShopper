@@ -26,7 +26,6 @@ A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. All
  
 ## Home Page
 ![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home1.png)
-![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home2.png)
 ![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home3.png)
 ## Individual Category Page
 ![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/categorypage.png)
