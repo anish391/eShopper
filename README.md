@@ -13,9 +13,11 @@ A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. All
 ### What works:
 * Basic Login/Logout features:
   * Allows you to register a new user for the website using the signup page.
-  * Adds a Username, Email-Id and Password. Password is hashed using SHA-256.
+  * Adds a Username, Email-Id and Password entry in the "_user_" table in the database. Password is hashed using SHA-256.
   * Sign-in based on Email-Id and Password.
   * Prevents potential SQL Injections.
+* Dynamic Product Cells:
+  * Loads product cells dynamically based on database entries in the database table "_products_". 
 * Add to Cart:
   * Allows you to add items to cart which stay as long as the session active. Cart is cleared when the user logs out.
   
@@ -24,6 +26,7 @@ A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. All
  * Doesn't allow you to add multiple quantities of the same item in cart. 
  * Storing more personalized user information.
  * Payment Portal set-up.
+ * Requires manually entry of products from the database. No Admin page for product entry.
  
 ## Home Page
 ![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home1.png)
