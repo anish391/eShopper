@@ -1,5 +1,5 @@
 # eShopper
-A fully functional grocery shopping website. 
+A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. Allows users to add items to the cart. 
 
 ### Getting Started:
 1. Get [XAMPP](https://www.apachefriends.org/index.html).
