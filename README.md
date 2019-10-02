@@ -1,7 +1,7 @@
 # eShopper
 A fully functional grocery shopping website. 
 
-### Getting Started
+### Getting Started:
 1. Get [XAMPP](https://www.apachefriends.org/index.html).
 2. Once the XAMPP Control Panel is open, start the Apache and MySQL services.
 3. Open [PHPMyAdmin](http://localhost/phpmyadmin/).
