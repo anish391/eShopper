@@ -27,6 +27,7 @@ A PHP based grocery shopping website. Comes with Sign-Up & Sign-In features. All
 * Storing more personalized user information.
 * Payment Portal set-up.
 * Requires manually entry of products from the database. No Admin page for product entry.
+* Product search not implemented.
  
 ## Home Page
 ![alt text](https://github.com/anish391/eShopper/blob/master/screenshots/home1.png)
